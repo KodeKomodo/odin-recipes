@@ -1,0 +1,1 @@
+This is my first project as a part of learning path in The Odin Project. It demonstrates my understanding of basic HTML tags.
